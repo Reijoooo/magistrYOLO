@@ -23,7 +23,7 @@ class ObjectDetection:
 
     def load_model(self):
 
-        model = YOLO("../../yolov8n.pt")
+        model = YOLO("../yolov8n.pt")
         model.fuse()
 
         return model
