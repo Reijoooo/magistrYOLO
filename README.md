@@ -1,0 +1,2 @@
+# magistrYOLO
+Desertation script
